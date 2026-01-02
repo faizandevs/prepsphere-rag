@@ -1,0 +1,12 @@
+langchain==0.1.20
+langchain-community==0.0.38
+langchain-pinecone==0.0.1
+langchain-huggingface==0.0.3
+langchain-google-genai==0.0.6
+pinecone-client==3.2.0
+sentence-transformers==2.7.0
+fastapi
+uvicorn
+python-dotenv
+pydantic
+requests
