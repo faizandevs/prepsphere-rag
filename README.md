@@ -1,6 +1,6 @@
 # Prepsphere RAG Chatbot
 
-A production-grade RAG (Retrieval Augmented Generation) chatbot system using Google Gemini, deployed across AWS EC2 and Render.
+A production-grade RAG (Retrieval Augmented Generation) chatbot system using Google Gemini, deployed across AWS EC2 and Render for my Final Year Project which was an android app. 
 
 ## System Architecture
 
